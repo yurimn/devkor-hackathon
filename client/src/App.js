@@ -5,7 +5,7 @@ import {
 } from "https://cdn.skypack.dev/react-full-page@0.1.12";
 import "./App.css";
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 import Page from "./Page";
 
 class App extends React.Component {
@@ -49,7 +49,5 @@ class App extends React.Component {
 		);
 	}
 }
-
-ReactDOM.render(<App />, document.getElementById("root"));
 
 export default App;
