@@ -17,22 +17,30 @@ class App extends React.Component {
 				>
 					<Slide>
 						<div className="section-common section-area1">
-							<Page />
+							<div className="page">
+								<Page />
+							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area2">
-							<Page />
+							<div className="page">
+								<Page />
+							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area3">
-							<Page />
+							<div className="page">
+								<Page />
+							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area4">
-							<Page />
+							<div className="page">
+								<Page />
+							</div>
 						</div>
 					</Slide>
 				</FullPage>
