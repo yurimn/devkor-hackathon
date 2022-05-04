@@ -1,10 +1,11 @@
 import "./Page.css";
 
 import Button from "./Button.js";
+import Main from "./Main.js";
 
 function Page(props) {
 	if (props.name == "intro") {
-		return <div>{props.name}</div>;
+		return <Main name={props.name} />;
 	} else {
 		return (
 			<div className="page">
