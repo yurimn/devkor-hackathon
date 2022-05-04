@@ -1,0 +1,22 @@
+.page {
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+	height: 50%;
+	justify-content: center;
+	justify-content: space-around;
+	align-items: center;
+}
+#random-button {
+	width: 50%;
+	height: 20%;
+	background-color: #ffffff;
+	cursor: pointer;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	user-select: none;
+	border: 1.5px solid #00000077;
+	border-radius: 10px;
+}
