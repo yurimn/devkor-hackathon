@@ -1,227 +1,227 @@
 [
     {
-        "name": "\ubc00\ud50c\ub79c\ube44 \uace0\ub824\ub300\uc810",
-        "explanation": "\ubd80\ub9ac\ub610",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 52 1\uce35"
+        "name": "밀플랜비 고려대점",
+        "explanation": "부리또",
+        "location": "서울 성북구 개운사길 52 1층"
     },
     {
-        "name": "\uc57c\ub9c8\ud1a0\ud150\ub3d9",
-        "explanation": "\uc77c\uc2dd\ub2f9",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 2 1\uce35 \uc57c\ub9c8\ud1a0\ud150\ub3d9"
+        "name": "야마토텐동",
+        "explanation": "일식당",
+        "location": "서울 성북구 고려대로28길 2 1층 야마토텐동"
     },
     {
-        "name": "\ubca0\ub098\ub808\uc2a4 \ubcf8\uc810",
-        "explanation": "\uc778\ub3c4 \uc74c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 27 2\uce35 \ubca0\ub098\ub808\uc2a4"
+        "name": "베나레스 본점",
+        "explanation": "인도 음식",
+        "location": "서울 성북구 고려대로24길 27 2층 베나레스"
     },
     {
-        "name": "\uc774\uacf5\uae40\ubc25 \uc548\uc554\ubcf8\uc810",
-        "explanation": "\uc885\ud569\ubd84\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c 61-6"
+        "name": "이공김밥 안암본점",
+        "explanation": "종합분식",
+        "location": "서울 성북구 안암로 61-6"
     },
     {
-        "name": "\uace0\ub978\ud587\uc0b4",
-        "explanation": "\uc885\ud569\ubd84\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 14"
+        "name": "고른햇살",
+        "explanation": "종합분식",
+        "location": "서울 성북구 개운사길 14"
     },
     {
-        "name": "\uc624\uc0ec",
-        "explanation": "\uc778\ub3c4 \uc74c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 6 \ubb38\uc6d0\ube4c\ub529 3\uce35"
+        "name": "오샬",
+        "explanation": "인도 음식",
+        "location": "서울 성북구 고려대로24길 6 문원빌딩 3층"
     },
     {
-        "name": "\ud55c\uc0c1\ucc28\ub9bc\ubc25\uc0c1",
-        "explanation": "\ud55c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c8\uae38 35 1\uce35"
+        "name": "한상차림밥상",
+        "explanation": "한식",
+        "location": "서울 성북구 고려대로8길 35 1층"
     },
     {
-        "name": "\ub514\uc5b4\ube0c\ub808\ub4dc \uace0\ub300\uc810",
-        "explanation": "\ubca0\uc774\ucee4\ub9ac",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac1\uae38 29"
+        "name": "디어브레드 고대점",
+        "explanation": "베이커리",
+        "location": "서울 성북구 개운사1길 29"
     },
     {
-        "name": "\uc720\uc790\uc720\uae40\uce58\ub5a1\ubcf6\uc774\ubcf8\uc810",
-        "explanation": "\ub5a1\ubcf6\uc774",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 48 2\uce35"
+        "name": "유자유김치떡볶이본점",
+        "explanation": "떡볶이",
+        "location": "서울 성북구 고려대로24길 48 2층"
     },
     {
-        "name": "\ubb34\ub974\ubb34\ub974\ub4dc\uad6c\uc2a4\ud1a0",
-        "explanation": "\uc591\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c 102-2 4\uce35"
+        "name": "무르무르드구스토",
+        "explanation": "양식",
+        "location": "서울 성북구 고려대로 102-2 4층"
     },
     {
-        "name": "\ub450\ubd80\ucd0c",
-        "explanation": "\ub450\ubd80\uc694\ub9ac",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c 43"
+        "name": "두부촌",
+        "explanation": "두부요리",
+        "location": "서울 성북구 안암로 43"
     },
     {
-        "name": "\ubc31\uc18c\uc815 \ubcf8\uc810",
-        "explanation": "\uc77c\uc2dd\ub2f9",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 30 2\uce35"
+        "name": "백소정 본점",
+        "explanation": "일식당",
+        "location": "서울 성북구 개운사길 30 2층"
     },
     {
-        "name": "\ud55c\uc220\uc2dd\ub2f9 \uace0\ub300\uc810",
-        "explanation": "\ub36e\ubc25",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 15 2\uce35"
+        "name": "한술식당 고대점",
+        "explanation": "덮밥",
+        "location": "서울 성북구 고려대로24길 15 2층"
     },
     {
-        "name": "\uc81c\uc8fc\uace0\uae43\uc9d1",
-        "explanation": "\uc721\ub958,\uace0\uae30\uc694\ub9ac",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c 69-1"
+        "name": "제주고깃집",
+        "explanation": "육류,고기요리",
+        "location": "서울 성북구 안암로 69-1"
     },
     {
-        "name": "\uc0bc\uc131\ud1b5\ub2ed\ubcf8\uc810",
-        "explanation": "\uce58\ud0a8",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 60"
+        "name": "삼성통닭본점",
+        "explanation": "치킨",
+        "location": "서울 성북구 고려대로24길 60"
     },
     {
-        "name": "\ud37d\uc564\uc5b4\ub2c8\uc5b8",
-        "explanation": "\ud584\ubc84\uac70",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 17-3 101\ud638 \ud37d\uc564\uc5b4\ub2c8\uc5b8"
+        "name": "퍽앤어니언",
+        "explanation": "햄버거",
+        "location": "서울 성북구 고려대로28길 17-3 101호 퍽앤어니언"
     },
     {
-        "name": "\ub9e4\uc2a4\ud50c\ub808\uc774\ud2b8\uc548\uc554\ubcf8\uc810",
-        "explanation": "\uc774\ud0c8\ub9ac\uc544\uc74c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 18 2\uce35"
+        "name": "매스플레이트안암본점",
+        "explanation": "이탈리아음식",
+        "location": "서울 성북구 개운사길 18 2층"
     },
     {
-        "name": "\ud2b8\ub77c\ud0c0 \uace0\ub300\ubcf8\uc810",
-        "explanation": "\uba55\uc2dc\ucf54, \ub0a8\ubbf8\uc74c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 14"
+        "name": "트라타 고대본점",
+        "explanation": "멕시코, 남미음식",
+        "location": "서울 성북구 고려대로28길 14"
     },
     {
-        "name": "\ubaa8\uc2ec",
-        "explanation": "\ud55c\uc815\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 8 \ud0c0\uc774\uac70\ube4c\ub529 3\uce35"
+        "name": "모심",
+        "explanation": "한정식",
+        "location": "서울 성북구 개운사길 8 타이거빌딩 3층"
     },
     {
-        "name": "\uc0bc\ud1b5\uce58\ud0a8 \ubcf8\uc810",
-        "explanation": "\uce58\ud0a8",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c 92"
+        "name": "삼통치킨 본점",
+        "explanation": "치킨",
+        "location": "서울 성북구 고려대로 92"
     },
     {
         "name": "mychef",
-        "explanation": "\ud30c\uc2a4\ud0c0",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uac00\uae38 14-1"
+        "explanation": "파스타",
+        "location": "서울 성북구 고려대로24가길 14-1"
     },
     {
-        "name": "\ud1a0\ub85c\uc0dd\uc120\uad6c\uc774",
-        "explanation": "\ud55c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 14-1 \ud1a0\ub85c\uc0dd\uc120\uad6c\uc774"
+        "name": "토로생선구이",
+        "explanation": "한식",
+        "location": "서울 성북구 고려대로28길 14-1 토로생선구이"
     },
     {
-        "name": "\uc11c\uc6b8\uc308\ub0c9\uba74",
-        "explanation": "\ub0c9\uba74",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 21-4"
+        "name": "서울쌈냉면",
+        "explanation": "냉면",
+        "location": "서울 성북구 개운사길 21-4"
     },
     {
-        "name": "BIYA\ubd80\ub300\ucc0c\uac1c\ubcf8\uc810",
-        "explanation": "\ucc0c\uac1c, \uc804\uace8",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 42-4"
+        "name": "BIYA부대찌개본점",
+        "explanation": "찌개, 전골",
+        "location": "서울 성북구 개운사길 42-4"
     },
     {
-        "name": "\ucfe0\uc774\ub3c4\ub77c\ucfe0",
-        "explanation": "\uc77c\ubcf8\uc2dd\ub77c\uba74",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c 103 1\uce35"
+        "name": "쿠이도라쿠",
+        "explanation": "일본식라면",
+        "location": "서울 성북구 안암로 103 1층"
     },
     {
-        "name": "\uac15\ub2e4\uc9d0 \uc0bc\uac01\uae40\ubc25 \uace0\ub300\uc810",
-        "explanation": "\ubd84\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 23"
+        "name": "강다짐 삼각김밥 고대점",
+        "explanation": "분식",
+        "location": "서울 성북구 고려대로24길 23"
     },
     {
-        "name": "\uc0bc\uccad\ub2f9 \uace0\ub300\uc548\uc554\uc810",
-        "explanation": "\uae40\ubc25",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 31 1\uce35"
+        "name": "삼청당 고대안암점",
+        "explanation": "김밥",
+        "location": "서울 성북구 고려대로28길 31 1층"
     },
     {
-        "name": "\ud314\ubc31\uc9d1",
-        "explanation": "\ub3fc\uc9c0\uace0\uae30\uad6c\uc774",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c27\uae38 3"
+        "name": "팔백집",
+        "explanation": "돼지고기구이",
+        "location": "서울 성북구 고려대로27길 3"
     },
     {
-        "name": "\ub354\uc528",
-        "explanation": "\uc911\uc2dd\ub2f9",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 8 2\uce35"
+        "name": "더씨",
+        "explanation": "중식당",
+        "location": "서울 성북구 개운사길 8 2층"
     },
     {
-        "name": "\uc0d0\ub7ec\ub514 \uace0\ub300\uc548\uc554\uc810",
-        "explanation": "\ub2e4\uc774\uc5b4\ud2b8,\uc0d0\ub7ec\ub4dc",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 12 1\uce35"
+        "name": "샐러디 고대안암점",
+        "explanation": "다이어트,샐러드",
+        "location": "서울 성북구 고려대로28길 12 1층"
     },
     {
-        "name": "\ub3d9\uc6b0\uc124\ub801\ud0d5 \ubcf8\uc810",
-        "explanation": "\uacf0\ud0d5,\uc124\ub801\ud0d5",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 45"
+        "name": "동우설렁탕 본점",
+        "explanation": "곰탕,설렁탕",
+        "location": "서울 성북구 개운사길 45"
     },
     {
-        "name": "\ubbf8\uc2a4\ud130\uad6d\ubc25",
-        "explanation": "\uad6d\ubc25",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c 102"
+        "name": "미스터국밥",
+        "explanation": "국밥",
+        "location": "서울 성북구 고려대로 102"
     },
     {
-        "name": "\ud69f\uac10",
-        "explanation": "\uc0dd\uc120\ud68c",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \ubcf4\ubb38\ub85c30\uae38 30 1\uce35"
+        "name": "횟감",
+        "explanation": "생선회",
+        "location": "서울 성북구 보문로30길 30 1층"
     },
     {
-        "name": "\uce58\ud3f4\ub808\uc639 \uace0\ub824\ub300\uc810",
-        "explanation": "\uc2a4\ud14c\uc774\ud06c,\ub9bd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 45 2\uce35"
+        "name": "치폴레옹 고려대점",
+        "explanation": "스테이크,립",
+        "location": "서울 성북구 고려대로24길 45 2층"
     },
     {
-        "name": "\uace0\ud488\ucf69",
-        "explanation": "\uc721\ub958,\uace0\uae30\uc694\ub9ac",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c 87-5"
+        "name": "고품콩",
+        "explanation": "육류,고기요리",
+        "location": "서울 성북구 안암로 87-5"
     },
     {
-        "name": "\ud788\ud3ec\ud06c\ub77c\ud14c\uc2a4 \uc2a4\ud504",
-        "explanation": "\uc591\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 12-3"
+        "name": "히포크라테스 스프",
+        "explanation": "양식",
+        "location": "서울 성북구 고려대로28길 12-3"
     },
     {
-        "name": "\ub4f1\ucd0c\uc0e4\ube0c\uce7c\uad6d\uc218 \uc548\uc554\uc810",
-        "explanation": "\uce7c\uad6d\uc218,\ub9cc\ub450",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 11 2\uce35"
+        "name": "등촌샤브칼국수 안암점",
+        "explanation": "칼국수,만두",
+        "location": "서울 성북구 개운사길 11 2층"
     },
     {
-        "name": "\uc5b4\ud765\uc2dd\ub2f9",
-        "explanation": "\uc2a4\ud14c\uc774\ud06c,\ub9bd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c27\uae38 40"
+        "name": "어흥식당",
+        "explanation": "스테이크,립",
+        "location": "서울 성북구 고려대로27길 40"
     },
     {
-        "name": "\uc601\ucca0\uc2a4\ud1a0\ub9ac\ud38c",
-        "explanation": "\ud584\ubc84\uac70",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uc548\uc554\ub85c9\uac00\uae38 100 1\uce35"
+        "name": "영철스토리펌",
+        "explanation": "햄버거",
+        "location": "서울 성북구 안암로9가길 100 1층"
     },
     {
-        "name": "\ub2c8\ubf55\ub0b4\ubf55 \uace0\ub824\ub300\uc810",
-        "explanation": "\uc911\uc2dd\ub2f9",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 23"
+        "name": "니뽕내뽕 고려대점",
+        "explanation": "중식당",
+        "location": "서울 성북구 고려대로24길 23"
     },
     {
-        "name": "\ud0c4",
-        "explanation": "\ub3c8\uac00\uc2a4",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c27\uae38 25"
+        "name": "탄",
+        "explanation": "돈가스",
+        "location": "서울 성북구 고려대로27길 25"
     },
     {
-        "name": "\ub044\ud2b8\uba38\ub9ac\uc9d1 \uc548\uc554\uc810",
-        "explanation": "\ud55c\uc2dd",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 20 1\uce35"
+        "name": "끄트머리집 안암점",
+        "explanation": "한식",
+        "location": "서울 성북구 고려대로24길 20 1층"
     },
     {
-        "name": "\ub098\uadf8\ub124\ud30c\uc804",
-        "explanation": "\uc804,\ube48\ub300\ub5a1",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c28\uae38 7"
+        "name": "나그네파전",
+        "explanation": "전,빈대떡",
+        "location": "서울 성북구 고려대로28길 7"
     },
     {
-        "name": "\ub9db\ub2ed\uaf2c \uc548\uc554\uace0\ub300\uc810",
-        "explanation": "\uce58\ud0a8,\ub2ed\uac15\uc815",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uace0\ub824\ub300\ub85c24\uae38 27"
+        "name": "맛닭꼬 안암고대점",
+        "explanation": "치킨,닭강정",
+        "location": "서울 성북구 고려대로24길 27"
     },
     {
-        "name": "\uce58\uc988\ub97c\uc0ac\ub791\ud55c\ucc1c\ub2ed \uace0\ub824\ub300\uc810",
-        "explanation": "\ucc1c\ub2ed",
-        "location": "\uc11c\uc6b8 \uc131\ubd81\uad6c \uac1c\uc6b4\uc0ac\uae38 21-3"
+        "name": "치즈를사랑한찜닭 고려대점",
+        "explanation": "찜닭",
+        "location": "서울 성북구 개운사길 21-3"
     }
 ]

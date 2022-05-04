@@ -10,17 +10,20 @@ import fs from 'fs';//file 입출력을 위한 모듈 fs import
     router.get('/api/get_random_loc', async(req, res) => {
         try {
             const id = req.query.id
-      
-            const idJsonFile = "./assets" + id + ".json"
-          
+            var index = Math.floor(Math.random()*45+1)
+            // const idJsonFile = "./assets" + id + ".json"
+            const idJsonFile = "../../assets/meal_list.json"
             fs.readFile(idJsonFile, 'utf-8', function(err, data){
+              var jsonData = JSON.parse(data)
+
               res.send({
-                "name": idJsonFile[0],
-                "explanation": idJsonFile[0],
-                "location": idJsonFile[0]
+                // "name": obj.name,
+                // "explanation": obj.explanation,
+                // "location": obj.location,
               })
+              
+                console.log(jsonData)
             })
-            console.log(idJsonFile[0])
         } catch(err) {
             console.log(err);
             res.send({
