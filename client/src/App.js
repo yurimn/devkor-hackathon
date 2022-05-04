@@ -18,21 +18,21 @@ class App extends React.Component {
 					<Slide>
 						<div className="section-common section-area1">
 							<div className="page">
-								<Page />
+								<Page name="intro" />
 							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area2">
 							<div className="page">
-								<Page />
+								<Page name="meal" />
 							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area3">
 							<div className="page">
-								<Page />
+								<Page name="joy" />
 							</div>
 						</div>
 					</Slide>
