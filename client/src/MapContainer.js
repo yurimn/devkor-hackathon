@@ -5,7 +5,7 @@ const { kakao } = window;
 function LinkButton(props) {
 	return (
 		<a id="link-button" href={props.url}>
-			kakao map link
+			naver map link
 		</a>
 	);
 }
@@ -53,7 +53,7 @@ function MapContainer(props) {
 				<div className="container-title">[ {props.loc_name} ]</div>
 				<div className="container-text">{props.explain}</div>
 				<div className="container-text">{props.loc}</div>
-				<LinkButton url={url}/>
+				<LinkButton url={url} />
 			</div>
 			<div className="container-map" id="myMap" />
 		</div>

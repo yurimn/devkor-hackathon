@@ -17,7 +17,7 @@
 }
 #random-button {
 	width: 50%;
-	height: 20%;
+	height: 12%;
 	background-color: #ffffff;
 	cursor: pointer;
 	display: flex;
@@ -34,8 +34,11 @@
 	z-index: 5;
 }
 #random-button:hover {
+	width: 52%;
+	height: 12%;
 	border-width: 3px;
 	border-color: #1b1b1b;
+	font-size: 22pt;
 	font-weight: bold;
 	box-shadow: 1px 1px 3px 2px gray;
 }

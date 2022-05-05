@@ -38,8 +38,8 @@
 }
 
 #link-button {
-	width: 80%;
-	height: 5%;
+	width: 60%;
+	height: 8%;
 	background-color: #ffffff99;
 	cursor: pointer;
 	display: flex;
@@ -48,7 +48,7 @@
 	align-items: center;
 	justify-content: center;
 	user-select: none;
-	border: 1.5px solid #00000077;
+	border: 2px solid #00000077;
 	border-radius: 5px;
 	z-index: 10;
 }
