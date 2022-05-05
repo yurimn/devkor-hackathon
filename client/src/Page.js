@@ -10,7 +10,7 @@ function Page(props) {
 	const [loc_name, setLocName] = useState("");
 	const [explain, setExplain] = useState("");
 	const [loc, setLoc] = useState("");
-
+	const [map, setMap] = useState(false);
 	if (props.name == "intro") {
 		return <Main name={props.name} />;
 	}
@@ -20,6 +20,7 @@ function Page(props) {
 				{props.name}
 				<Button
 					setClick={setClick}
+					setMap={setMap}
 					click={click}
 					setExplain={setExplain}
 					setLoc={setLoc}
@@ -36,7 +37,8 @@ function Page(props) {
 					loc_name={loc_name}
 					loc={loc}
 					explain={explain}
-				></MapContainer>
+					map={map}
+				/>
 				<Button
 					setClick={setClick}
 					click={click}
