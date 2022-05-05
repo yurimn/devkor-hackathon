@@ -23,7 +23,7 @@ function Button(props) {
 			})
 			.then((response) => {
 				props.setExplain(response.data.explanation);
-				props.setLocName(response.data.name);
+				props.setLocName(response.data.loc_name);
 				props.setLoc(response.data.location);
 			});
 	}
