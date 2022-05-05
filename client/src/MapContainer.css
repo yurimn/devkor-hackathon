@@ -19,6 +19,8 @@
 	align-items: center;
 	font-size: 15pt;
 	background-color: rgb(233, 210, 147);
+	padding-left:3%;
+	padding-right:3%;
 }
 .container-title {
 	display: flex;
