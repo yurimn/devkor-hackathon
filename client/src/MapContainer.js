@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import "./MapContainer.css";
 const { kakao } = window;
 
-function LinkButton({}) {
+function LinkButton(props) {
 	return (
-		<button id="link-button" onClick={() => {}}>
+		<a id="link-button" href={props.url}>
 			kakao map link
-		</button>
+		</a>
 	);
 }
 
@@ -53,7 +53,7 @@ function MapContainer(props) {
 				<div className="container-title">[ {props.loc_name} ]</div>
 				<div className="container-text">{props.explain}</div>
 				<div className="container-text">{props.loc}</div>
-				<LinkButton />
+				<LinkButton url={url}/>
 			</div>
 			<div className="container-map" id="myMap" />
 		</div>
