@@ -1,11 +1,19 @@
+@font-face {
+	font-family: "KoreaL";
+	src: url(./font/KoreaL.ttf);
+}
 .page {
 	display: flex;
 	flex-direction: column;
+	background-color: #ffffff;
 	width: 80%;
 	height: 80%;
 	justify-content: center;
 	justify-content: space-around;
 	align-items: center;
+	font-size: 30pt;
+	font-weight: bold;
+	font-family: "KoreaL";
 }
 #random-button {
 	width: 50%;
@@ -17,8 +25,17 @@
 	align-items: center;
 	justify-content: center;
 	user-select: none;
+	font-size: 20pt;
+	font-weight: bolds;
+	font-family: "KoreaL";
 	margin-top: 5%;
-	border: 1.5px solid #00000077;
+	border: 3px solid #00000077;
 	border-radius: 10px;
 	z-index: 5;
+}
+#random-button:hover {
+	border-width: 3px;
+	border-color: #1b1b1b;
+	font-weight: bold;
+	box-shadow: 1px 1px 3px 2px gray;
 }

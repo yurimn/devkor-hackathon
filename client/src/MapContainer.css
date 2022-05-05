@@ -1,3 +1,7 @@
+@font-face {
+	font-family: "KoreaL";
+	src: url(./font/KoreaL.ttf);
+}
 .container {
 	display: flex;
 	width: 100%;
@@ -8,23 +12,27 @@
 }
 .container-explain {
 	display: flex;
-	width: 100%;
+	width: 45%;
 	height: 100%;
 	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	font-size: 15pt;
-	background-color: bisque;
+	background-color: rgb(233, 210, 147);
 }
 .container-title {
 	display: flex;
-	font-size: 20pt;
+	margin-bottom: 10%;
+	font-size: 25pt;
 }
 .container-text {
 	display: flex;
-	font-size: 10pt;
+	font-size: 15pt;
+	margin-bottom: 3%;
 }
 .container-map {
 	display: flex;
 	background-color: aqua;
-	width: 70%;
+	width: 45%;
 	height: 100%;
 }

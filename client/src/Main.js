@@ -10,7 +10,7 @@ function Main(props) {
 				<div className="main-title-text">KOREA UNIVERSITY</div>
 			</div>
 			<div>
-				<img src={require("./pic/korea2.png").default} />
+				<img src={require("./pic/korea4.png").default} />
 			</div>
 		</div>
 	);

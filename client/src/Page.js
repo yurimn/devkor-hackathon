@@ -7,6 +7,7 @@ import React, { useState } from "react";
 
 function Page(props) {
 	const [click, setClick] = useState(0);
+	const [title, setTitle] = useState("");
 	const [loc_name, setLocName] = useState("");
 	const [explain, setExplain] = useState("");
 	const [loc, setLoc] = useState("");
@@ -17,7 +18,7 @@ function Page(props) {
 	if (click === 0) {
 		return (
 			<div className="page">
-				{props.name}
+				{props.title}
 				<Button
 					setClick={setClick}
 					click={click}
@@ -31,7 +32,7 @@ function Page(props) {
 	} else {
 		return (
 			<div className="page">
-				{props.name}
+				{props.title}
 				<MapContainer
 					loc_name={loc_name}
 					loc={loc}

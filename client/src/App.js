@@ -25,21 +25,21 @@ class App extends React.Component {
 					<Slide>
 						<div className="section-common section-area2">
 							<div className="page">
-								<Page name="meal" />
+								<Page name="meal" title="오늘 먹을 메뉴는?" />
 							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area3">
 							<div className="page">
-								<Page name="joy" />
+								<Page name="joy" title="오늘 놀러갈 장소는?" />
 							</div>
 						</div>
 					</Slide>
 					<Slide>
 						<div className="section-common section-area4">
 							<div className="page">
-								<Page />
+								<Page name="drink" title="오늘은 마시자!" />
 							</div>
 						</div>
 					</Slide>
