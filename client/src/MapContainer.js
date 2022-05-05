@@ -38,7 +38,7 @@ function MapContainer(props) {
 			//목적지 마커(음식점)
 		}
 	}, [props.loc])
-	
+	const url = `https://map.naver.com/v5/search/${props.loc_name}/`;
 	return (
 		<div className="container">
 			<div className="container-explain">
