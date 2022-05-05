@@ -1,4 +1,4 @@
-[
+export default [
     {
         "name": "밀플랜비 고려대점",
         "explanation": "부리또",
@@ -224,4 +224,4 @@
         "explanation": "찜닭",
         "location": "서울 성북구 개운사길 21-3"
     }
-]
+  ];

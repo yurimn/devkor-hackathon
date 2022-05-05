@@ -1,19 +1,11 @@
 import axios from "axios"; //server와 통신
 import React, {useState} from 'react'
 
-function Button(props) {
-    var content;
-    if(props.name === 'meal') {
-        var s_content = "뭐먹지"
-        var e_content = "다른거 뭐먹지"
-    }
-    else if(props.name === 'joy') {
-        var s_content = "뭐하지"
-        var e_content = "다른거 뭐하지"
-    }
+function Map_container(props) {
+    
     if(props.click===0) content = s_content
     else content = e_content
-	function getRandomLoc() {
+	function getMapData() {
         
         props.setClick(1);
 		axios
@@ -35,4 +27,4 @@ function Button(props) {
         </button>
 	);
 }
-export default Button;
+export default Map_container;
