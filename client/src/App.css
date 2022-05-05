@@ -12,16 +12,16 @@ body {
 }
 
 .section-area1 {
-	background-color: rgb(255, 110, 110);
+	background-color: rgb(255, 255, 255);
 }
 .section-area2 {
-	background-color: rgb(255, 229, 81);
+	background-color: rgb(100, 0, 0);
 }
 .section-area3 {
-	background-color: rgb(245, 255, 192);
+	background-color: rgb(255, 235, 196);
 }
 .section-area4 {
-	background-color: rgb(138, 255, 148);
+	background-color: rgb(100, 0, 0);
 }
 
 .slide-navigation button:nth-child(1) {
@@ -34,11 +34,11 @@ body {
 
 .slide-navigation button {
 	background-color: white;
-	border-radius: 10px;
-	border: 1px solid black;
-	width: 5px;
-	height: 15px;
-	margin: 0 5px;
+	border-radius: 15px;
+	border: 4px solid rgb(21, 0, 0);
+	width: 20px;
+	height: 20px;
+	margin: 0 10px;
 	font-size: 0px;
 	cursor: pointer;
 }
@@ -56,6 +56,8 @@ body {
 }
 
 .slide-navigation button:disabled {
-	background-color: black;
-	border: 1px solid white;
+	width: 25px;
+	height: 25px;
+	background-color: rgb(75, 0, 0);
+	border: 3px solid rgb(255, 255, 255);
 }
