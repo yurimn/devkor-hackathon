@@ -11,8 +11,11 @@ function LinkButton(props) {
 }
 
 function MapContainer(props) {
+	
+	const ii = "mymap" + props.name
 	useEffect(() => {
-		const container = document.getElementById("myMap"); //지도를 담을 영역의 DOM 레퍼런스
+		console.log(ii)
+		const container = document.getElementById(ii); //지도를 담을 영역의 DOM 레퍼런스
 		const options = {
 			//지도를 생성할 때 필요한 기본 옵션
 			center: new kakao.maps.LatLng(37.586296, 127.029137), //지도의 중심좌표는 안암역으로 설정.
@@ -55,7 +58,7 @@ function MapContainer(props) {
 				<div className="container-text">{props.loc}</div>
 				<LinkButton url={url} />
 			</div>
-			<div className="container-map" id="myMap" />
+			<div className="container-map" id={ii}/>
 		</div>
 	);
 }
