@@ -4,6 +4,7 @@ import Button from "./Button.js";
 import Main from "./Main.js";
 import MapContainer from "./MapContainer.js";
 import React, { useState } from "react";
+import QusImg from "./pic/question.png";
 
 function Page(props) {
 	const [click, setClick] = useState(0);
@@ -19,6 +20,7 @@ function Page(props) {
 		return (
 			<div className="page">
 				{props.title}
+				<img src={QusImg} className="question-img" />
 				<Button
 					setClick={setClick}
 					setMap={setMap}
