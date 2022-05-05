@@ -35,6 +35,7 @@ function Page(props) {
 			<div className="page">
 				{props.title}
 				<MapContainer
+					name={props.name}
 					loc_name={loc_name}
 					loc={loc}
 					explain={explain}

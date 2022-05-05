@@ -9,6 +9,9 @@ function Button(props) {
 	} else if (props.name === "joy") {
 		var s_content = "뭐하지";
 		var e_content = "다른거 뭐하지";
+	} else{
+		var s_content = "뭐마시지"
+		var e_content = "다른거 뭐마시지"
 	}
 	if (props.click === 0) content = s_content;
 	else content = e_content;
@@ -18,7 +21,7 @@ function Button(props) {
 			.get("/api/get_random_loc", {
 				method: "GET",
 				params: {
-					id: document.getElementById("random-button").prop,
+					id: props.name,
 				},
 			})
 			.then((response) => {
