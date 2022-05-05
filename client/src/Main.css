@@ -1,6 +1,10 @@
 @font-face {
 	font-family: "KoreaB";
-	src: url("./font/KoreaB.ttf");
+	src: url(./font/KoreaB.ttf);
+}
+@font-face {
+	font-family: "KoreaL";
+	src: url(./font/KoreaL.ttf);
 }
 
 .main {
@@ -12,15 +16,38 @@
 	height: 100vh;
 	width: 100vw;
 	background-position: center;
+	flex-direction: row;
+}
+
+.main-text {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	align-content: center;
+	justify-content: center;
 }
 
 .main-title-text {
 	color: rgb(0, 0, 0);
+	font-family: "KoreaB";
+	text-shadow: 5px 5px 5px rgb(181, 181, 181);
+	text-decoration-color: bisque;
 	display: flex;
+	margin-left: 7%;
 	width: 100%;
 	align-items: center;
-	text-align: center;
 	font: bold;
 	font-size: 80pt;
+}
+
+.main-sub-text {
+	color: rgb(0, 0, 0);
 	font-family: "KoreaB";
+	text-shadow: 2px 2px 2px rgb(181, 161, 139);
+	display: flex;
+	margin-left: 8%;
+	width: 100%;
+	align-items: center;
+	font: bold;
+	font-size: 30pt;
 }
